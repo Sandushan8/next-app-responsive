@@ -348,10 +348,10 @@ export default function SignUpLoginContainer({
           src={imageUrl}
           alt="Logo"
           width={620}
-          height={100}
+          height={300}
           objectFit="cover"
           className="md:rounded-br-3xl"
-          style={{ marginTop: -20, zIndex: -1 }}
+          style={{ marginTop: -20, zIndex: -1, height: 330 }}
         />
       </div>
     </div>
