@@ -28,7 +28,7 @@ const config: Config = {
       },
       width: {
         lineWidth: "10.375rem",
-        smallLineWidth: "5.3125rem",
+        smallLineWidth: "8.3125rem",
       },
     },
   },

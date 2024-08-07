@@ -169,7 +169,7 @@ export default function SignUpLoginContainer({
             {type === containerTypes.login ? "Sign Up" : "Login"}
           </Link>
         </div>
-        <div className="text-sm md:text-normal flex justify gap-3 mb-3 md:mb-10">
+        <div className="flex justify-center text-sm md:text-normal w-full flex justify gap-3 mb-3 md:mb-10">
           <div
             className="flex"
             style={{
