@@ -27,7 +27,7 @@ const config: Config = {
         signUpMain: "#165A0F",
       },
       width: {
-        lineWidth: "14.375rem",
+        lineWidth: "10.375rem",
         smallLineWidth: "5.3125rem",
       },
     },
